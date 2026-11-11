@@ -80,6 +80,56 @@
       ],
       "destination": "https://ranksfuel.com/$1",
       "permanent": true
+    },
+    {
+      "source": "/locations/united-kingdom",
+      "destination": "/locations/uk-seo-agency",
+      "permanent": true
+    },
+    {
+      "source": "/locations/united-kingdom.html",
+      "destination": "/locations/uk-seo-agency",
+      "permanent": true
+    },
+    {
+      "source": "/locations/new-zealand",
+      "destination": "/locations/new-zealand-seo",
+      "permanent": true
+    },
+    {
+      "source": "/locations/new-zealand.html",
+      "destination": "/locations/new-zealand-seo",
+      "permanent": true
+    },
+    {
+      "source": "/locations/united-states",
+      "destination": "/locations/usa-seo-agency",
+      "permanent": true
+    },
+    {
+      "source": "/locations/united-states.html",
+      "destination": "/locations/usa-seo-agency",
+      "permanent": true
+    },
+    {
+      "source": "/locations/india",
+      "destination": "/locations/india-seo-agency",
+      "permanent": true
+    },
+    {
+      "source": "/locations/india.html",
+      "destination": "/locations/india-seo-agency",
+      "permanent": true
+    },
+    {
+      "source": "/services/google-ads",
+      "destination": "/services/google-ads-management",
+      "permanent": true
+    },
+    {
+      "source": "/services/google-ads.html",
+      "destination": "/services/google-ads-management",
+      "permanent": true
     }
   ]
 }
