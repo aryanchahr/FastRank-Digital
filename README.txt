@@ -3,8 +3,8 @@ RANKS FUEL - deploy notes
 1. Upload everything in this folder to your GitHub repo (replace the old files). Vercel redeploys automatically.
 
 2. ENQUIRY EMAILS (one-time activation, required)
-   All forms (contact, free audit, call booking, newsletter) send to aryanchahar711@gmail.com via FormSubmit.co.
-   After the site is live, submit any form once yourself. FormSubmit emails aryanchahar711@gmail.com an
+   All forms (contact, free audit, call booking, newsletter) send to aryan@ranksfuel.com via FormSubmit.co.
+   After the site is live, submit any form once yourself. FormSubmit emails aryan@ranksfuel.com an
    "Activate Form" link. Click it. Until then, visitors will see the "could not send" message.
    (Check Spam/Promotions if it does not arrive.)
 

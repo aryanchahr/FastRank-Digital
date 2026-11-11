@@ -73,8 +73,8 @@ if(dEl&&sEl){
 }
 
 /* ---------- forms: every enquiry is emailed to the address below ---------- */
-var FORM_ENDPOINT='https://formsubmit.co/ajax/'+'aryanchahar711@gmail.com';
-var FALLBACK_EMAIL='aryanchahar711@gmail.com';
+var FORM_ENDPOINT='https://formsubmit.co/ajax/'+'aryan@ranksfuel.com';
+var FALLBACK_EMAIL='aryan@ranksfuel.com';
 function sendForm(kind,fields){
   var payload={};Object.keys(fields).forEach(function(k){payload[k]=fields[k]});
   payload._subject='Ranks Fuel website: '+kind;payload._template='table';payload._captcha='false';payload.Page=window.location.href;payload.Form=kind;
