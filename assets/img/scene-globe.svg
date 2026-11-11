@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif"><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EAF2FF"/><stop offset="1" stop-color="#D9F4F9"/></linearGradient>
+<radialGradient id="gg" cx=".35" cy=".3" r=".95"><stop offset="0" stop-color="#60A5FA"/><stop offset=".55" stop-color="#2563EB"/><stop offset="1" stop-color="#1E3A8A"/></radialGradient>
+<linearGradient id="em" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FDBA74"/><stop offset="1" stop-color="#F97316"/></linearGradient>
+<linearGradient id="gb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#06B6D4"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+<filter id="sh" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#0F172A" flood-opacity=".22"/></filter>
+<clipPath id="gc"><circle cx="400" cy="300" r="190"/></clipPath>
+</defs>
+<rect width="800" height="600" rx="40" fill="url(#bg)"/>
+<circle cx="710" cy="80" r="130" fill="#2563EB" opacity=".07"/><circle cx="80" cy="540" r="150" fill="#06B6D4" opacity=".13"/>
+<g filter="url(#sh)"><circle cx="400" cy="300" r="190" fill="url(#gg)"/></g>
+<g clip-path="url(#gc)">
+<g fill="none" stroke="#fff" stroke-opacity=".26" stroke-width="2"><ellipse cx="400" cy="300" rx="70" ry="190"/><ellipse cx="400" cy="300" rx="135" ry="190"/><path d="M400 110V490M210 300H590M222 225H578M222 375H578M262 155H538M262 445H538"/></g>
+<g fill="#fff" fill-opacity=".24"><path d="M296 168c32-22 74-16 92 8s2 48-22 60-62 6-74-14-12-40 4-54z"/><path d="M236 282c28-12 62 2 68 30s-18 60-40 78-46-4-50-38 4-54 22-70z"/><path d="M436 214c42-16 94 4 104 42s-24 58-46 64-62-10-68-40 0-54 10-66z"/><path d="M468 362c28-6 54 10 54 36s-24 42-46 38-36-24-32-44 8-26 24-30z"/></g>
+</g>
+<ellipse cx="338" cy="196" rx="70" ry="34" fill="#fff" opacity=".12" transform="rotate(-24 338 196)"/>
+<g fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-dasharray="1 9"><path d="M338 218Q292 236 266 302"/><path d="M338 218Q420 156 506 270"/><path d="M506 270Q552 330 540 392"/><path d="M506 270Q470 226 440 230"/></g>
+<g><circle cx="338" cy="218" r="17" fill="#fff"/><circle cx="338" cy="218" r="8" fill="url(#em)"/></g>
+<g><circle cx="266" cy="302" r="17" fill="#fff"/><circle cx="266" cy="302" r="8" fill="url(#em)"/></g>
+<g><circle cx="506" cy="270" r="17" fill="#fff"/><circle cx="506" cy="270" r="8" fill="url(#em)"/></g>
+<g><circle cx="540" cy="392" r="14" fill="#fff"/><circle cx="540" cy="392" r="6.5" fill="url(#em)"/></g>
+<g><circle cx="440" cy="230" r="13" fill="#fff"/><circle cx="440" cy="230" r="6" fill="url(#em)"/></g>
+<g filter="url(#sh)"><rect x="316" y="152" width="64" height="32" rx="16" fill="#fff"/><rect x="156" y="262" width="76" height="32" rx="16" fill="#fff"/><rect x="520" y="226" width="78" height="32" rx="16" fill="#fff"/><rect x="556" y="378" width="108" height="32" rx="16" fill="#fff"/></g>
+<g font-size="16" font-weight="800" fill="#0F172A" text-anchor="middle"><text x="348" y="174">UK</text><text x="194" y="284">USA</text><text x="559" y="248">India</text><text x="610" y="400">Singapore</text></g>
+<g filter="url(#sh)"><rect x="70" y="440" width="252" height="92" rx="26" fill="#fff"/></g>
+<text x="96" y="492" font-size="46" font-weight="800" fill="#2563EB">12</text><text x="96" y="516" font-size="16" font-weight="600" fill="#5B6678">countries served</text>
+<g transform="translate(252 456)"><rect x="0" y="34" width="12" height="20" rx="4" fill="#06B6D4"/><rect x="20" y="20" width="12" height="34" rx="4" fill="#2563EB"/><rect x="40" y="6" width="12" height="48" rx="4" fill="url(#gb)"/></g>
+<g filter="url(#sh)"><rect x="590" y="70" width="140" height="64" rx="22" fill="#0F172A"/></g>
+<text x="660" y="100" text-anchor="middle" font-size="26" font-weight="800" fill="#06B6D4">Rank #1</text><text x="660" y="121" text-anchor="middle" font-size="13" font-weight="600" fill="#CBD5E1">on Google</text>
+</svg>
