@@ -369,6 +369,15 @@ footer{background:var(--navy);color:#fff;padding:clamp(4rem,9vw,8rem) var(--pad)
 .wm{--f:0%;font-size:clamp(3.4rem,18.6vw,18rem);font-weight:900;letter-spacing:-.06em;line-height:.9;color:transparent;background:linear-gradient(to top,#F97316,#06B6D4 calc(var(--f) * .45),#2563EB var(--f),transparent var(--f));-webkit-background-clip:text;background-clip:text;-webkit-text-stroke:1.5px rgba(255,255,255,.3);margin-top:3rem;white-space:nowrap;text-align:center;padding-bottom:.05em}
 .legal{display:flex;justify-content:space-between;flex-wrap:wrap;gap:1rem;font-size:.85rem;opacity:.6;margin-top:2rem}
 
+/* floating whatsapp button */
+.wa-float{position:fixed;left:max(1.2rem,env(safe-area-inset-left,0px));bottom:calc(1rem + env(safe-area-inset-bottom,0px));z-index:150;display:inline-flex;align-items:center;gap:.6rem;background:#25D366;color:#fff;padding:.65rem 1.15rem;border-radius:999px;box-shadow:0 12px 28px -6px rgba(37,211,102,.55),0 6px 14px -4px rgba(0,0,0,.35);font-weight:600;font-size:.9rem;text-decoration:none;transition:transform .3s cubic-bezier(.16,1,.3,1),box-shadow .3s}
+.wa-float:hover{transform:translateY(-2px) scale(1.05);color:#fff;box-shadow:0 16px 36px -4px rgba(37,211,102,.7),0 8px 18px -4px rgba(0,0,0,.45)}
+.wa-float svg{width:22px;height:22px;display:block;flex-shrink:0}
+@media (max-width:640px){
+  .wa-float{width:56px;height:56px;padding:0;justify-content:center;border-radius:50%}
+  .wa-float .wa-text{display:none}
+}
+
 /* chat */
 #chat-btn{position:fixed;right:max(1rem,env(safe-area-inset-right,0px));bottom:calc(1rem + env(safe-area-inset-bottom,0px));z-index:150;width:60px;height:60px;border-radius:50%;background:var(--blue);color:#fff;display:grid;place-items:center;box-shadow:0 14px 30px -8px rgba(37,99,235,.6);transition:transform .3s}
 #chat-btn:hover{transform:scale(1.08)}
