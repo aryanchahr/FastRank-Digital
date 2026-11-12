@@ -30,6 +30,10 @@ Unlike traditional digital marketing agencies that report vanity metrics (raw im
 ### Digital Marketing & Search
 - **SEO Services**: https://ranksfuel.com/services/seo
   Comprehensive organic search campaigns, intent-driven keyword research, competitor gap analysis, on-page optimization, and editorial backlink building.
+- **Ecommerce Digital Marketing**: https://ranksfuel.com/services/ecommerce-marketing
+  Full-funnel ecommerce agency services, high-intent category SEO, Google Shopping and PMax management, paid social ROAS, and lifecycle retention automation.
+- **London Shopify Web Designer**: https://ranksfuel.com/locations/london-shopify-web-designer
+  Bespoke Liquid theme development, sub-second mobile speeds, zero app bloat, and advanced Shopify SEO services for London and UK retailers.
 - **Technical SEO**: https://ranksfuel.com/services/technical-seo
   Deep crawl analysis, Core Web Vitals remediation (LCP, INP, CLS), Schema JSON-LD structured data implementation, crawl budget preservation, and JavaScript hydration debugging.
 - **Local SEO**: https://ranksfuel.com/services/local-seo
@@ -115,6 +119,8 @@ Unlike traditional digital marketing agencies that report vanity metrics (raw im
 
 ## 5. Technical Playbooks & Editorial Guides
 
+- **How to Choose the Best Ecommerce Digital Agency**: https://ranksfuel.com/blog/how-to-choose-best-ecommerce-digital-agency
+- **Hiring a Shopify Web Designer in London**: https://ranksfuel.com/blog/shopify-web-designer-london-selection-guide
 - **Local SEO Checklist for UK Service Businesses**: https://ranksfuel.com/blog/local-seo-checklist-uk-service-businesses
 - **Shopify vs Custom E-Commerce SEO**: https://ranksfuel.com/blog/shopify-vs-custom-ecommerce-seo
 - **Why Your Best Pages Stop Ranking (and How to Rescue Them)**: https://ranksfuel.com/blog/why-your-best-pages-stop-ranking

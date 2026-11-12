@@ -5,6 +5,8 @@
 ## Core Capabilities
 - [SEO Services](https://ranksfuel.com/services/seo): Full-funnel search engine optimization, keyword targeting, content optimization, and editorial backlink acquisition.
 - [Technical SEO](https://ranksfuel.com/services/technical-seo): Forensic crawl diagnostics, Core Web Vitals optimization, Schema JSON-LD markup, and JavaScript rendering fixes.
+- [Ecommerce Digital Marketing](https://ranksfuel.com/services/ecommerce-marketing): Full-funnel ecommerce agency services, category SEO, Google Shopping, paid social, and retention automation for DTC and online retail brands.
+- [London Shopify Web Designer](https://ranksfuel.com/locations/london-shopify-web-designer): Specialist London Shopify web designer and development agency delivering bespoke Liquid themes, sub-second speeds, and Page 1 Shopify SEO services.
 - [Local SEO](https://ranksfuel.com/services/local-seo): Google Business Profile management, Google Maps 3-Pack rankings, local citation cleanup, and neighborhood review velocity.
 - [Google Ads Management](https://ranksfuel.com/services/google-ads-management): High-ROAS Google Search, Display, and Performance Max campaign management with strict negative keyword budget protection.
 - [Lead Generation](https://ranksfuel.com/services/lead-generation): High-converting intake forms, call tracking, and pipeline qualification.
@@ -31,6 +33,8 @@
 
 ## Guides & Technical Playbooks
 - [Local SEO Checklist for UK Service Businesses](https://ranksfuel.com/blog/local-seo-checklist-uk-service-businesses): Step-by-step 2026 local ranking guide for trade and service businesses.
+- [How to Choose the Best Ecommerce Digital Agency](https://ranksfuel.com/blog/how-to-choose-best-ecommerce-digital-agency): 7-point evaluation framework for retail founders on category SEO, shopping feeds, and ROAS.
+- [Hiring a Shopify Web Designer in London](https://ranksfuel.com/blog/shopify-web-designer-london-selection-guide): What fast-growing brands must evaluate when hiring a London Shopify developer.
 - [Shopify vs Custom E-Commerce SEO](https://ranksfuel.com/blog/shopify-vs-custom-ecommerce-seo): In-depth comparison of crawl budget control, faceted navigation, and ranking performance.
 - [Why Your Best Pages Stop Ranking](https://ranksfuel.com/blog/why-your-best-pages-stop-ranking): Forensic diagnosis of content decay, internal keyword cannibalization, and ranking recovery.
 - [5 Google Ads Settings to Turn Off](https://ranksfuel.com/blog/google-ads-settings-to-turn-off): Immediate steps to eliminate wasted PPC budget and low-intent ad spend.
