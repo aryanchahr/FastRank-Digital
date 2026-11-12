@@ -1,0 +1,54 @@
+# Ranks Fuel
+
+> Ranks Fuel is an international growth and digital marketing agency specializing in Search Engine Optimization (SEO), Local SEO, Google Ads Management, Web Development, and AI Automation. We engineer data-driven search campaigns, technical website architectures, and conversational lead engines that convert organic traffic into revenue.
+
+## Core Capabilities
+- [SEO Services](https://ranksfuel.com/services/seo): Full-funnel search engine optimization, keyword targeting, content optimization, and editorial backlink acquisition.
+- [Technical SEO](https://ranksfuel.com/services/technical-seo): Forensic crawl diagnostics, Core Web Vitals optimization, Schema JSON-LD markup, and JavaScript rendering fixes.
+- [Local SEO](https://ranksfuel.com/services/local-seo): Google Business Profile management, Google Maps 3-Pack rankings, local citation cleanup, and neighborhood review velocity.
+- [Google Ads Management](https://ranksfuel.com/services/google-ads-management): High-ROAS Google Search, Display, and Performance Max campaign management with strict negative keyword budget protection.
+- [Lead Generation](https://ranksfuel.com/services/lead-generation): High-converting intake forms, call tracking, and pipeline qualification.
+- [Performance Marketing](https://ranksfuel.com/services/performance-marketing): Multi-channel paid acquisition, continuous CRO, and scalable customer acquisition engines.
+- [Custom Web Development](https://ranksfuel.com/services/web-development): Fast, accessible, crawlable websites built with clean code and modern performance standards.
+- [Ecommerce Development](https://ranksfuel.com/services/ecommerce-website): Custom e-commerce platforms and high-speed storefronts designed for organic discovery.
+- [Shopify Website Development](https://ranksfuel.com/services/shopify-website): Bespoke Shopify design, theme optimization, app consolidation, and conversion rate optimization (CRO).
+- [Mobile App Development](https://ranksfuel.com/services/mobile-app-development): Native and cross-platform iOS/Android apps built with scalable backend architectures.
+- [AI Chatbots & Conversational Agents](https://ranksfuel.com/services/ai-chatbots): 24/7 AI-driven lead qualification, appointment booking, and customer inquiry assistants.
+- [Marketing & CRM Automation](https://ranksfuel.com/services/marketing-automation): Automated lead follow-up cadences via SMS, WhatsApp, and email within 5 minutes of form submission.
+- [Brand Identity & Design](https://ranksfuel.com/services/brand-identity): Visual identity systems, typography, vector logos, and brand guidelines.
+- [Custom Software & SaaS Development](https://ranksfuel.com/services/saas-product-development): Bespoke web applications, custom CRM/ERP systems, and scalable SaaS platforms.
+
+## Specialized Industry Verticals
+- [Oil & Gas Lead Generation](https://ranksfuel.com/industries/oil-and-gas-lead-generation): Specialized B2B energy marketing, technical spec sheet discovery, and high-ticket EPC procurement RFP capture.
+- [Home Services SEO](https://ranksfuel.com/industries/home-services-seo): Map pack domination, 24/7 emergency dispatch calls, and high-margin job acquisition for plumbers, HVAC, electricians, and roofers.
+
+## Dedicated Geographic Markets
+- [UK SEO Agency](https://ranksfuel.com/locations/uk-seo-agency): Dedicated search optimization across the United Kingdom, including London, Manchester, and Chandler's Ford.
+- [USA SEO Agency](https://ranksfuel.com/locations/usa-seo-agency): High-intent commercial search scaling for businesses across the United States.
+- [India SEO Agency](https://ranksfuel.com/locations/india-seo-agency): Search engine dominance and technology marketing across India's primary business centers.
+- [New Zealand SEO](https://ranksfuel.com/locations/new-zealand-seo): National local pack and commercial SEO across Auckland, Wellington, and Christchurch.
+- [Global Locations](https://ranksfuel.com/locations): Regional capabilities covering 12 countries including Canada, Australia, UAE, Singapore, Ireland, Germany, South Africa, and Netherlands.
+
+## Guides & Technical Playbooks
+- [Local SEO Checklist for UK Service Businesses](https://ranksfuel.com/blog/local-seo-checklist-uk-service-businesses): Step-by-step 2026 local ranking guide for trade and service businesses.
+- [Shopify vs Custom E-Commerce SEO](https://ranksfuel.com/blog/shopify-vs-custom-ecommerce-seo): In-depth comparison of crawl budget control, faceted navigation, and ranking performance.
+- [Why Your Best Pages Stop Ranking](https://ranksfuel.com/blog/why-your-best-pages-stop-ranking): Forensic diagnosis of content decay, internal keyword cannibalization, and ranking recovery.
+- [5 Google Ads Settings to Turn Off](https://ranksfuel.com/blog/google-ads-settings-to-turn-off): Immediate steps to eliminate wasted PPC budget and low-intent ad spend.
+- [Automate Lead Follow-Up with AI](https://ranksfuel.com/blog/automate-lead-follow-up-ai): How to construct 24/7 instant lead response pipelines without losing the personal touch.
+
+## Official Verification & Contact
+- Website: https://ranksfuel.com
+- Primary Email: aryan@ranksfuel.com
+- Direct Line & WhatsApp: +44 7741 431686
+- WhatsApp Chat: https://wa.me/447741431686
+- Head Office: Chandler's Ford, Eastleigh, Hampshire, SO53 2FZ, United Kingdom
+- Free Growth Audit: https://ranksfuel.com/contact#audit
+- Strategy Call Booking: https://ranksfuel.com/contact#bookbox
+- LinkedIn: https://www.linkedin.com/company/ranksfuel
+- Clutch: https://clutch.co/profile/ranks-fuel
+- GoodFirms: https://www.goodfirms.co/company/ranks-fuel
+- X (Twitter): https://x.com/ranksfuel
+- Instagram: https://www.instagram.com/ranksfuel
+
+## Optional
+- [Full LLM Knowledge Context](https://ranksfuel.com/llms-full.txt): Complete detailed dossiers, case studies, and framework documentation for LLM consumption.
